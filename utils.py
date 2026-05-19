@@ -113,7 +113,7 @@ async def progress_bar(current, total, reply, start):
         f"├ ♻️  𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗘𝗗 ➤ | {hrb(current)} \n"
         f"├ 📦  𝗦𝗜𝗭𝗘 ➤ | {hrb(total)} \n"
         f"├ ⏰  𝗘𝗧𝗔 ➤ | {hrt(eta_seconds, 1)}\n\n"
-        f"╰─═══ **⌯ FʀᴏɴᴛMᴀɴ | ×͜× | **═══─╯"
+        f"╰─═══ **⌯ Krishna | ×͜× | **═══─╯"
     )
 
     try:
